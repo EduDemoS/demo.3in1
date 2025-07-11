@@ -7,6 +7,7 @@ The 3×1 demonstrator is designed for students in vocational training centers an
 This repository contains all necessary files and is structured as follows:
 
 - [doc](doc) contains documentation such as 
+  - [details.md](doc/details.md)
   - assembly manual
   - bill of material
 - [code](code) contains program code to run the model
