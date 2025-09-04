@@ -1,4 +1,17 @@
-
+/*                                                                                                           *
+ *  Thank you for building EduDemoS!                                                                         *
+ *                                                                                                           *
+ *  This file is part of the EduDemoS Project and is licensed under the Creative Commons Attribution         *
+ *  NonCommercial ShareAlike 4.0 International license (CC BY-NC-SA 4.0). For full license details, see the  *
+ *  license.txt file or visit https://creativecommons.org/licenses/by-nc-sa/4.0/                             *     
+ *                                                                                                           *
+ *  EduDemoS is co-funded by the European Union. You can find more information at edudemos.eu                *                                                         
+ *                                                                                                           *
+ *  +-----------------------------------------------------------------------------------------------------+  *
+ *                                                                                                           *
+ *  The algorithm is based on the Arduino Solar Tracker guide:                                               *
+ *  https://projecthub.arduino.cc/Aboubakr_Elhammoumi/arduino-solar-tracker-77347b                           */
+ 
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <HTTPClient.h>
