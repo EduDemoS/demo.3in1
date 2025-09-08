@@ -13,4 +13,10 @@ This repository contains all necessary files and is structured as follows:
 - [code](code) contains program code to run the model
 - [model](model) contains the printable 3D model
 
-All data is licensed under the terms outlined in [LICENSE.md](LICENSE.md).
+# Licensing
+Please note: different licenses apply depending on the type of content.
+
+All documents and 3d models (files ending with .pdf and .stl) are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+All files containing code are licensed under [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.txt).
+
