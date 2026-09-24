@@ -15,7 +15,7 @@ Trabaja la captación de agua, la energía solar y la energía eólica. Incluye 
 | Taller | Descripción |
 |---|---|
 | `Edudemos_3en1_Completo` | Versión completa sin conexión a internet. Integra agua, energía solar y energía eólica. |
-| `Edudemos_3en1_AguaySolar` | Agua y energía solar, sin conexión IoT. |
+| `Edudemos_3en1_AguaySolar` | Agua y energía solar. |
 | `Edudemos_3en1_Agua` | Módulo independiente de captación/medición de agua. |
 | `Edudemos_3en1_Viento` | Módulo independiente del demostrador eólico. |
 
