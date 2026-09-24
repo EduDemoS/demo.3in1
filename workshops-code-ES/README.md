@@ -93,5 +93,6 @@ EduDemoS es un proyecto educativo que promueve el aprendizaje práctico de la so
 
 ## Licencia
 
-Este repositorio se comparte con finalidad educativa.
-Se recomienda revisar la licencia del proyecto antes de utilizar, modificar o distribuir el código.
+Please note: different licenses apply depending on the type of content.
+All documents and 3d models (files ending with .pdf and .stl) are licensed under CC-BY-NC-SA 4.0.
+All files containing code are licensed under GNU GPL V3.
